@@ -1,0 +1,61 @@
+[  
+  { 
+    "school": "W3C School",        
+    "date": 2020,        
+    "category": "Ingénieur logiciel",        
+    "description": "Conception et développement de logiciels de gestion de projet."    
+    },    
+    {        
+      "school": "W3C School",        
+      "date": 2019,        
+      "category": "Analyste financier",        
+      "description": "Analyse des performances financières de l'entreprise et recommandations pour l'amélioration des résultats."    
+      },    
+      {        
+        "school": "W3C School",        
+        "date": 2021,        
+        "category": "Chef de projet",        
+        "description": "Coordination des équipes de développement pour la réalisation de projets informatiques."    
+        },    
+        {        
+          "school": "W3C School",        
+          "date": 2018,        
+          "category": "Responsable des ventes",        
+          "description": "Gestion de l'équipe de vente et développement de la stratégie commerciale."    
+          },    
+          {        
+            "school": "W3C School",        
+            "date": 2022,        
+            "category": "Ingénieur réseau",        
+            "description": "Gestion de l'infrastructure réseau de l'entreprise et maintenance des équipements."    
+            },    
+            {        
+              "school": "W3C School",        
+              "date": 2020,        
+              "category": "Développeur web",        
+              "description": "Création et maintenance de sites web pour les clients de l'entreprise."    
+            },    
+            {        
+              "school": "W3C School",        
+              "date": 2021,        
+              "category": "Responsable marketing",        
+              "description": "Développement de la stratégie marketing de l'entreprise et gestion de l'équipe marketing."    
+              },    
+              {        
+                "school": "PQR Inc",        
+                "date": 2019,        
+                "category": "Analyste de données",        
+                "description": "Analyse des données de l'entreprise pour aider à la prise de décisions."    
+                },    
+                {        
+                  "school": "STU Ltd",        
+                  "date": 2018,       
+                  "category": "Chef de produit",        
+                  "description": "Développement de nouveaux produits et gestion du cycle de vie des produits existants."    
+                },    
+                {        
+                  "school": "VWX SA",        
+                  "date": 2022,        
+                  "category": "Ingénieur de test",        
+                  "description": "Conception et exécution de tests pour assurer la qualité des produits de l'entreprise."    
+}]

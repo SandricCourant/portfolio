@@ -1,11 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { ImageBackground, StyleSheet, View } from 'react-native';
+import PageViewer from './src/components/PageViewer';
+
+const image = { uri: 'https://w0.peakpx.com/wallpaper/108/638/HD-wallpaper-underwater-earth-ocean-sea-under-water.jpg' };
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+        <PageViewer/>
+      <StatusBar style='auto' />
     </View>
   );
 }
@@ -13,8 +16,5 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
   },
 });

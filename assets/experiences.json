@@ -1,0 +1,61 @@
+[  
+  { 
+    "nom Entreprise": "Acme Corp",        
+    "année": 2020,        
+    "poste": "Ingénieur logiciel",        
+    "description": "Conception et développement de logiciels de gestion de projet."    
+    },    
+    {        
+      "nom Entreprise": "XYZ Company",        
+      "année": 2019,        
+      "poste": "Analyste financier",        
+      "description": "Analyse des performances financières de l'entreprise et recommandations pour l'amélioration des résultats."    
+      },    
+      {        
+        "nom Entreprise": "ABC Inc",        
+        "année": 2021,        
+        "poste": "Chef de projet",        
+        "description": "Coordination des équipes de développement pour la réalisation de projets informatiques."    
+        },    
+        {        
+          "nom Entreprise": "DEF SA",        
+          "année": 2018,        
+          "poste": "Responsable des ventes",        
+          "description": "Gestion de l'équipe de vente et développement de la stratégie commerciale."    
+          },    
+          {        
+            "nom Entreprise": "GHI Ltd",        
+            "année": 2022,        
+            "poste": "Ingénieur réseau",        
+            "description": "Gestion de l'infrastructure réseau de l'entreprise et maintenance des équipements."    
+            },    
+            {        
+              "nom Entreprise": "JKL Corp",        
+              "année": 2020,        
+              "poste": "Développeur web",        
+              "description": "Création et maintenance de sites web pour les clients de l'entreprise."    
+            },    
+            {        
+              "nom Entreprise": "MNO SA",        
+              "année": 2021,        
+              "poste": "Responsable marketing",        
+              "description": "Développement de la stratégie marketing de l'entreprise et gestion de l'équipe marketing."    
+              },    
+              {        
+                "nom Entreprise": "PQR Inc",        
+                "année": 2019,        
+                "poste": "Analyste de données",        
+                "description": "Analyse des données de l'entreprise pour aider à la prise de décisions."    
+                },    
+                {        
+                  "nom Entreprise": "STU Ltd",        
+                  "année": 2018,       
+                  "poste": "Chef de produit",        
+                  "description": "Développement de nouveaux produits et gestion du cycle de vie des produits existants."    
+                },    
+                {        
+                  "nom Entreprise": "VWX SA",        
+                  "année": 2022,        
+                  "poste": "Ingénieur de test",        
+                  "description": "Conception et exécution de tests pour assurer la qualité des produits de l'entreprise."    
+}]
